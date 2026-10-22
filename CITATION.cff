@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the archived Zenodo software release when available (DOI: XXX)."
+type: software
+license: MIT
+title: "Microfluidic ADV acoustic acquisition and signal analysis software"
+version: "0.1.0"
+authors:
+  - family-names: "Taulier"
+    given-names: "Nicolas"
+  - family-names: "Dong"
+    given-names: "Tianhao"
+  - family-names: "Pakula Lundheim"
+    given-names: "Maja"
+keywords:
+  - acoustic droplet vaporization
+  - microfluidics
+  - ultrasound
+  - acoustic acquisition
+  - subharmonic analysis

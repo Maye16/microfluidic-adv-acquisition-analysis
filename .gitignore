@@ -1,0 +1,33 @@
+# Local environments and editor state
+.venv/
+venv/
+.env
+.env.*
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.DS_Store
+__MACOSX/
+# Experimental files and personal logs (never add these by default)
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.tif
+*.tiff
+*.csv
+*.xlsx
+*.log
+*.bak
+# Generated plots and analysis products
+*.png
+*.svg
+analysis-results/
+# Local instrument settings (the example configs are distributed)
+acquisition/local_devices.cfg
+acquisition/local_configuration.cfg
+# Users may keep third-party GUI artwork locally, outside version control
+acquisition/icons/
