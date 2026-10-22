@@ -1,6 +1,7 @@
 cff-version: 1.2.0
-message: "Please cite the archived Zenodo software release when available (DOI: XXX)."
+message: "Please cite this software using DOI: 10.5281/zenodo.23576243."
 type: software
+doi: "10.5281/zenodo.23576243"
 license: MIT
 title: "Microfluidic ADV acoustic acquisition and signal analysis software"
 version: "0.1.0"

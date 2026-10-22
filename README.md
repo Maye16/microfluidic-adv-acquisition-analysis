@@ -29,7 +29,7 @@ This repository provides code, **not experimental ADV datasets**. Five synthetic
 
 ## Citation
 
-See [`CITATION.cff`](CITATION.cff). A persistent software DOI will be added after the first GitHub release is archived on **Zenodo** (DOI: XXX). Zotero can import the Zenodo citation once available.
+Please cite this software using DOI: [10.5281/zenodo.23576243](https://doi.org/10.5281/zenodo.23576243). See [`CITATION.cff`](CITATION.cff) for citation metadata or [`SOFTWARE_CITATION_TEMPLATE.bib`](SOFTWARE_CITATION_TEMPLATE.bib) for BibTeX. You can also add the citation to Zotero using the DOI.
 
 ## License and third-party packages
 
